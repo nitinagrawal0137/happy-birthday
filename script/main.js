@@ -298,7 +298,7 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
-    tl.restart();
+    window.open('https://nitinagrawal0137.github.io/birthday/', '_blank');
   });
 };
 
